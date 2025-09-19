@@ -14,7 +14,7 @@
 - 🌱 I'm constantly learning and exploring **new technologies and frameworks**
 - 👯 I'm looking to collaborate on **open source projects** and innovative solutions
 - 💬 Ask me about **web development, programming, or tech in general**
-- 📫 How to reach me: **chamodyachirath@gmail.com** | **[linkedin- Chirath Abeymanna**](https://www.linkedin.com/in/chirath-abeymanna-990700292/)
+- 📫 How to reach me: **chamodyachirath@gmail.com** | **[linkedin- Chirath Abeymanna]**(https://www.linkedin.com/in/chirath-abeymanna-990700292/)
 - ⚡ Fun fact: **I turn coffee into code** ☕
 
 ---
