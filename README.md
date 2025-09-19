@@ -96,8 +96,8 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chirath-Abeymanna&repo=your-repo-name&theme=tokyonight&hide_border=true)](https://github.com/Chirath-Abeymanna/Chamodya_Chirath)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chirath-Abeymanna&repo=another-repo-name&theme=tokyonight&hide_border=true)](https://github.com/Chirath-Abeymanna/Finance_tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chirath-Abeymanna&repo=Chamodya_Chirath&theme=tokyonight&hide_border=true)](https://github.com/Chirath-Abeymanna/Chamodya_Chirath)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chirath-Abeymanna&repo=Finance_tracker&theme=tokyonight&hide_border=true)](https://github.com/Chirath-Abeymanna/Finance_tracker)
 
 </div>
 
