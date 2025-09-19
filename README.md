@@ -1,4 +1,4 @@
-# 👨‍💻 Hey I'm Chirath Abeymanna
+# 👨‍💻 Hey I'm Chamodya Chirath
 
 <div align="center">
   
